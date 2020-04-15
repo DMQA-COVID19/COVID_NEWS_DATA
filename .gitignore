@@ -7,3 +7,4 @@ news_data/Article_사회_202001_202004.csv
 news_data/Article_경제_202001_202004.csv
 news_data/Article_IT과학_202001_202004.csv
 JHOON/.ipynb_checkpoints/NEWS_DATA_PREPROCESS-checkpoint.ipynb
+*.csv
